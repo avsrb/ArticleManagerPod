@@ -30,6 +30,6 @@ extension Article {
         let creationDate: String = "CREATION DATE: \(String(describing: creationDate))\n"
         let modificationDate: String = "MODIFICATION DATE: \(String(describing: modificationDate))"
         
-        return titele + content + language + image + creationDate + modificationDate
+        return titele + content + language + image + creationDate + modificationDate + "\n"
     }
 }

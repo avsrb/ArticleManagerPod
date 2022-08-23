@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'mshmelly2022'
-  s.version          = '0.1.1'
+  s.version          = '0.1.5'
   s.summary          = 'A pod for swift_piscine_iOS 42 Day08'
   s.swift_versions   = '5.0'
   #s.source_files = 'mshmelly2022/**/*.{h,m,swift}'
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 'Today s goal will be to create on that uses the CoreDate framework to learn how to use the data and model persistence'
                        DESC
 
-  s.homepage         = 'https://github.com/avsrb/OwnCocoaPod'
+  s.homepage         = 'https://github.com/avsrb/ArticleManagerPod.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Artem' => 'avsrb@icloud.com' }
