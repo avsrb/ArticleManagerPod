@@ -1,0 +1,22 @@
+{
+  "name": "mshmelly2022",
+  "version": "0.1.0",
+  "summary": "A short description of mshmelly2022.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/avsrb@icloud.com/mshmelly2022",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "avsrb@icloud.com": "Serebryakov"
+  },
+  "source": {
+    "git": "https://github.com/avsrb@icloud.com/mshmelly2022.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "mshmelly2022/Classes/**/*"
+}

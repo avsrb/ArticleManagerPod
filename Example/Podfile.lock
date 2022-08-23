@@ -1,0 +1,16 @@
+PODS:
+  - mshmelly2022 (0.1.0)
+
+DEPENDENCIES:
+  - mshmelly2022 (from `../`)
+
+EXTERNAL SOURCES:
+  mshmelly2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mshmelly2022: 48f5ff275a08ae26647690dbffeba8858c76dae6
+
+PODFILE CHECKSUM: a206d491a7c5feaba5f3dc8b9b06ea829fad2195
+
+COCOAPODS: 1.11.3
